@@ -61,7 +61,7 @@ function Partycard() {
         />
     </div>
     <div className="grid grid-cols-1 md:grid-cols-2 gap-6 z-10 p-4 md:p-8 lg:p-12">
-        {party.map((package, index) => (
+        {party.map((partyPackage, index) => (
             <div key={index} className="bg-white bg-opacity-70 rounded-lg shadow-md overflow-hidden">
                 <div className="p-6">
                     <h2 className="text-xl font-bold text-gray-900 mb-2 md:mb-6 text-left md:text-center">{package.heading}</h2>
