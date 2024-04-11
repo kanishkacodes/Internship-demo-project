@@ -20,11 +20,11 @@ function Aboutslider() {
           <h1 className="text-xl md:text-4xl lg:text-4xl font-bold mb-6 text-yellow-500">
             Byg Brewski Brewing Company
           </h1>
-          <p className="mb-4 text-md md:text-2xl text-yellow-300">
+          <p className="mb-4 text-lg md:text-2xl text-yellow-300">
             The Nordic Reign In Namma Bengaluru!
           </p>
           <p className="mb-8 text-sm md:text-xl text-yellow-100">
-            He Vikings owed their giant-spirited passion for carousing to the
+            The Vikings owed their giant-spirited passion for carousing to the
             most mild-mannered of deities, Byggvir (pronounced ‘big-vee-ur’).
             With his wife Beyla, they presided over the brewing of mead and
             beer. Inspired by Byggvir and Beyla’s immeasurable love of brewing
