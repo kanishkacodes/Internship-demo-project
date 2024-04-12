@@ -23,12 +23,12 @@ function Page() {
           </p>
           <div className="flex flex-row justify-center space-x-4">
             <Link href="/">
-              <button className="bg-black bg-opacity-70 hover:bg-opacity-90 text-white font-bold py-2 px-4 sm:py-3 sm:px-6 rounded-full text-sm sm:text-base">
+              <button className="bg-black bg-opacity-70 hover:bg-opacity-90 text-white font-bold py-3 px-4 sm:py-3 sm:px-6 rounded-full text-sm sm:text-base">
                 Hennur
               </button>
             </Link>
             <Link href="/">
-              <button className="bg-black bg-opacity-70 hover:bg-opacity-90 text-white font-bold py-2 px-4 sm:py-3 sm:px-6 rounded-full text-sm sm:text-base">
+              <button className="bg-black bg-opacity-70 hover:bg-opacity-90 text-white font-bold py-3 px-4 sm:py-3 sm:px-6 rounded-full text-sm sm:text-base">
                 Sarjapur
               </button>
             </Link>

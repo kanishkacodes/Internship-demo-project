@@ -31,18 +31,19 @@ function Reservations() {
         <li className="list-disc">There is no specific table booking on weekends, it depends on availability!</li>
       </ul>
       {/* Buttons */}
-      <div className="flex flex-col md:flex-row md:justify-between">
-        <Link href="/">
-          <button className="bg-yellow-500 hover:bg-yellow-600 text-white px-4 py-2 rounded mb-4 md:mb-0 md:mr-2 focus:outline-none">
-            Book a Table
-          </button>
-        </Link>
-        <Link href="/">
-          <button className="bg-yellow-500 hover:bg-yellow-600 text-white px-4 py-2 rounded focus:outline-none">
-            Party Reservations
-          </button>
-        </Link>
-      </div>
+      <div className="flex flex-row justify-between">
+  <Link href="/">
+    <button className="bg-yellow-500 hover:bg-yellow-600 text-white px-3 py-2  rounded-full focus:outline-none text-sm md:px-4 md:py-3 md:text-base">
+      Book a Table
+    </button>
+  </Link>
+  <Link href="/">
+    <button className="bg-yellow-500 hover:bg-yellow-600 text-white px-3 py-2 rounded-full focus:outline-none text-sm md:px-4 md:py-3 md:text-base">
+      Party Reservations
+    </button>
+  </Link>
+</div>
+
     </div>
   </div>
 </div>
